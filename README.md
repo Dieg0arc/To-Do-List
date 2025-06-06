@@ -51,7 +51,7 @@ Ejecutar con:
 
 ```bash
 npm test
-
+```
 ---
 
 ### Resultado de pruebas ejecutadas
@@ -60,4 +60,4 @@ npm test
 
 ---
 
-```
+
